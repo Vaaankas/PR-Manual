@@ -15,7 +15,7 @@ If you shoot a civilian outside the ROE, you will face several penalties:
 * After your next death you will respawn 120 seconds later, per civilian shot \(stacks up to 5 minutes additional delay\)
 * You will not be able to request any kits for 10 minutes
 * Your score is reduced to 0 and the kill will not be listed on the scoreboard
-* Your team loses 10 intelligence points
+* Your team loses 5 intelligence points
 
 In the other hand, shooting a civilian inside the ROE will cause:
 
